@@ -1,0 +1,13 @@
+/.env
+serviceAccountKey.json
+/__pycache__/
+/*.pyc
+/backend/app/__pycache__/
+/backend/app/*.pyc
+/backend/tests/__pycache__/
+/backend/tests/*.pyc
+/.vscode/
+/.idea/
+.DS_Store
+node_modules/
+/frontend/node_modules/
