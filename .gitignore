@@ -11,3 +11,4 @@ serviceAccountKey.json
 .DS_Store
 node_modules/
 /frontend/node_modules/
+/venv
